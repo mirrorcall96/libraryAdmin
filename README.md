@@ -1,3 +1,3 @@
-A project to create a panel to manage user and books relation in library 2
-Front End only 
+a simple panel for librarian that want to mange users and books 
+
 Live Demo :https://librarypanel-mirror.netlify.app/
